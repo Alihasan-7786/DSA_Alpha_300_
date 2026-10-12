@@ -1,4 +1,3 @@
-
 class Solution:
     def minSubArrayLen(self, target, nums):
         left = 0
