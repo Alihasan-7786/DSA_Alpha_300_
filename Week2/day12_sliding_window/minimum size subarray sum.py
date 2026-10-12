@@ -1,3 +1,5 @@
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 class Solution:
     def minSubArrayLen(self, target, nums):
         left = 0
