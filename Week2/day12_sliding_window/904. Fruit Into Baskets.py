@@ -1,3 +1,5 @@
+# Time Complexity: O(n^2)
+# Space Complexity: O(1)
 class Solution:
     def totalFruit(self, fruits):
         left = 0
