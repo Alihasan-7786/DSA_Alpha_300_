@@ -24,5 +24,6 @@ def merge_sort(arr):
 numbers = [7, 4, 9, 2, 6, 1]
 print(merge_sort(numbers))
 
+
 # Time Complexity: O(n log n)
 # Space Complexity: O(n)
