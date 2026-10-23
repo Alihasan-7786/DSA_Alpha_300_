@@ -14,9 +14,9 @@ def next_greatest_letter(letters, target):
 
     return letters[low]
 
-print(next_greatest_letter(['c', 'f', 'j'], 'a'))  # c
-print(next_greatest_letter(['c', 'f', 'j'], 'c'))  # f
-print(next_greatest_letter(['c', 'f', 'j'], 'j'))  # c
+print(next_greatest_letter(['c', 'f', 'j'], 'a'))  
+print(next_greatest_letter(['c', 'f', 'j'], 'c'))  
+print(next_greatest_letter(['c', 'f', 'j'], 'j'))  
 
 
 # Time Complexity: O(log n)
