@@ -21,9 +21,9 @@ matrix = [
     [23, 30, 34, 60]
 ]
 
-print(search_matrix(matrix, 3))   # True
-print(search_matrix(matrix, 13))  # False
-print(search_matrix(matrix, 60))  # True
+print(search_matrix(matrix, 3))
+print(search_matrix(matrix, 13))
+print(search_matrix(matrix, 60)) 
 
 
 # Time Complexity: O(log(m * n))
